@@ -1,0 +1,6 @@
+entity\Pedido.class
+enums\Status.class
+br\com\bernardotrapp\pedidos\api\Startup.class
+entity\ItemPedido.class
+controller\PedidoController.class
+entity\Produto.class
