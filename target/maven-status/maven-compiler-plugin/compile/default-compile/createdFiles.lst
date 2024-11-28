@@ -2,5 +2,6 @@ entity\Pedido.class
 enums\Status.class
 br\com\bernardotrapp\pedidos\api\Startup.class
 entity\ItemPedido.class
+config\SpringDocOpenApiConfig.class
 controller\PedidoController.class
 entity\Produto.class
